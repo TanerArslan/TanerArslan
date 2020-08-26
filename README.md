@@ -9,7 +9,7 @@
 
 [![Taner's github stats](https://github-readme-stats.vercel.app/api?username=TanerArslan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/TanerArslan)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanerArslan=TeX&layout=compact)
+![Top Languages]![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanerArslan&hide=TeX&layout=compact)
 
 ![Who visited me](https://visitor-badge.laobi.icu/badge?page_id=TanerArslan.TanerArslan)
 
