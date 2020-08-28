@@ -8,7 +8,7 @@
 
 - 🌱 &nbsp; I’m currently learning and interested in deep learning methods to answer the biological questions.
 
-- 📫 &nbsp; How to reach me: <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="150" height="100">
+- 📫 &nbsp; How to reach me: <img align="center" src="http://gph.is/1K9RZBt" alt="Coder GIF" width="150" height="100">
 
 - &nbsp;If that is not working, try others 😄 
 
