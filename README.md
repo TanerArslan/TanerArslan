@@ -5,9 +5,13 @@
 - 🎓 &nbsp; currently doing my P.hD at [Karolinska Institute](https://ki.se/) in Stockholm, Sweden.
 - 🤔 &nbsp; analyzing big data in cancer research and develop new methods & algorithms using bioinformatics, machine and statistical learning to understand cancer better.
 - 🔭  &nbsp; I’m currently working on personalized treatment predictions using multi-layer omics data.
+
 - 🌱 &nbsp; I’m currently learning and interested in deep learning methods to answer the biological questions.
-- 📫 &nbsp; How to reach me: <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="150" height="100">
+
+- 📫 &nbsp; How to reach me: <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="150" height="100">
+
 - &nbsp;If that is not working, try others 😄 
+
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/taner-arslan/)
 ![Twitter Follow](https://img.shields.io/twitter/follow/arslantnr?style=social)
 [![Gmail Badge](https://img.shields.io/badge/-tanerarslan.gen@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tanerarlsan.gen@gmail.com)](mailto:tanerarslan.gen@gmail.com)
