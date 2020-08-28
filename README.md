@@ -7,6 +7,7 @@
 - 🔭  &nbsp; I’m currently working on personalized treatment predictions using multi-layer omics data.
 - 🌱 &nbsp; I’m currently learning and interested in deep learning methods to answer the biological questions. 
 - 📫 &nbsp; How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/taner-arslan/)
+![Twitter Follow](https://img.shields.io/twitter/follow/arslantnr_?style=social)
 
 ![Who visited me](https://visitor-badge.laobi.icu/badge?page_id=TanerArslan.TanerArslan)
 
