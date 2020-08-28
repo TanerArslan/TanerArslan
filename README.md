@@ -6,7 +6,7 @@
 - 🤔 &nbsp; analyzing big data in cancer research and develop new methods & algorithms using bioinformatics, machine and statistical learning to understand cancer better.
 - 🔭  &nbsp; I’m currently working on personalized treatment predictions using multi-layer omics data.
 - 🌱 &nbsp; I’m currently learning and interested in deep learning methods to answer the biological questions. 
-- 📫 &nbsp; How to reach me:
+- 📫 &nbsp; How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/taner-arslan/)
 
 ![Who visited me](https://visitor-badge.laobi.icu/badge?page_id=TanerArslan.TanerArslan)
 
