@@ -12,9 +12,9 @@
 
 - &nbsp;If that is not working, try others 😄 
 
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/taner-arslan/). 
-![Twitter Follow](https://img.shields.io/twitter/follow/arslantnr?style=social). 
-[![Gmail Badge](https://img.shields.io/badge/-tanerarslan.gen@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tanerarlsan.gen@gmail.com)](mailto:tanerarslan.gen@gmail.com). 
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/taner-arslan/)&nbsp;
+![Twitter Follow](https://img.shields.io/twitter/follow/arslantnr?style=social)&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-tanerarslan.gen@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tanerarlsan.gen@gmail.com)](mailto:tanerarslan.gen@gmail.com)&nbsp;
 
 ![Who visited me](https://visitor-badge.laobi.icu/badge?page_id=TanerArslan.TanerArslan)
 
