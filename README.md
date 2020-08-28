@@ -3,18 +3,21 @@
 <h3 align="center"> 💻 Bioinformatician | Data Scientist 💻 </h3>
 
 - 🎓 &nbsp; currently doing my P.hD at [Karolinska Institute](https://ki.se/) in Stockholm, Sweden.
-- 🤔 &nbsp; analyzing big data in cancer research and develop new methods & algorithms using bioinformatics, machine and statistical learning to understand cancer better.
+
+- 🤔 &nbsp; analyzing big data in cancer research and develop new methods & algorithms using bioinformatics, machine and statistical 
+learning to understand cancer better.
+
 - 🔭  &nbsp; I’m currently working on personalized treatment predictions using multi-layer omics data.
 
-- 🌱 &nbsp; I’m currently learning and interested in deep learning methods to answer the biological questions.
+- 🌱 &nbsp; I’m currently learning and interested in deep learning methods to lighten the dark side of the cancer biology.
 
 - 📫 &nbsp; How to reach me: <img align="center" src="https://media.giphy.com/media/126ub9tbJhoXh6/giphy.gif" alt="Coder GIF" width="175" height="125">
 
-- &nbsp;If that is not working, try others 😄 
+- &nbsp;If this is not working, try followings 😄 
 
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/taner-arslan/)\
-![Twitter Follow](https://img.shields.io/twitter/follow/arslantnr?style=social)\
-[![Gmail Badge](https://img.shields.io/badge/-tanerarslan.gen@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tanerarlsan.gen@gmail.com)](mailto:tanerarslan.gen@gmail.com)\
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/taner-arslan/)
+![Twitter Follow](https://img.shields.io/twitter/follow/arslantnr?style=social)
+[![Gmail Badge](https://img.shields.io/badge/-tanerarslan.gen@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tanerarlsan.gen@gmail.com)](mailto:tanerarslan.gen@gmail.com)
 
 ![Who visited me](https://visitor-badge.laobi.icu/badge?page_id=TanerArslan.TanerArslan)
 
