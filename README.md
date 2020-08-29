@@ -11,7 +11,7 @@ learning to understand cancer better.
 
 - 🌱 &nbsp; I’m currently learning and interested in deep learning methods to lighten the dark side of the cancer biology.
 
-- 📫 &nbsp; How to reach me: <img align="center" src="https://media.giphy.com/media/126ub9tbJhoXh6/giphy.gif" alt="Coder GIF" width="175" height="125">
+- 📫 &nbsp; How to reach me: <img align="center" src="https://media.giphy.com/media/126ub9tbJhoXh6/giphy.gif" alt="Coder GIF" width="200" height="150">
 
 - &nbsp;If this is not working, try followings 😄 
 
