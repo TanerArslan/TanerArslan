@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; currently doing my P.hD at [Karolinska Institute](https://ki.se/) in Stockholm, Sweden.
 
-- 🤔 &nbsp; analyzing big data in cancer research and develop new methods & algorithms using bioinformatics, machine and statistical 
+- 🤔 &nbsp; analyzing big omics data in cancer research and develop new methods & algorithms using bioinformatics, machine and statistical 
 learning to understand cancer better.
 
 - 🔭  &nbsp; I’m currently working on personalized treatment predictions using multi-layer omics data.
