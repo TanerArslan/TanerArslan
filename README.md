@@ -7,6 +7,8 @@
 - 🤔 &nbsp; analyzing big omics data in cancer research and develop new methods & algorithms using bioinformatics, machine and statistical 
 learning to understand cancer better.
 
+- 🤓 &nbsp; building end-to-end machine learning pipelines to automate the workflow of the predictive model.
+
 - 🔭  &nbsp; I’m currently working on personalized treatment predictions using multi-layer omics data.
 
 - 🌱 &nbsp; I’m currently learning and interested in deep learning methods to lighten the dark side of the cancer biology.
